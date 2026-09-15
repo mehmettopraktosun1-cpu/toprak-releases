@@ -1,26 +1,33 @@
 {
   "schemaVersion": 1,
   "appId": "toprak-desktop",
-  "version": "1.0.0",
-  "publishedAt": "2026-09-15T13:42:09.038Z",
+  "version": "1.1.0",
+  "publishedAt": "2026-09-15T15:39:35.205Z",
   "installer": {
-    "fileName": "Toprak-Setup-1.0.0.exe",
-    "url": "https://github.com/mehmettopraktosun1-cpu/toprak-releases/releases/download/v1.0.0/Toprak-Setup-1.0.0.exe",
-    "sha256": "43cf42ea6217f3e5cb6c860299986c6c7dc87833c3d40ab4096b1329dacc0faa",
-    "sizeBytes": 55764573
+    "fileName": "Toprak-Setup-1.1.0.exe",
+    "url": "https://github.com/mehmettopraktosun1-cpu/toprak-releases/releases/download/v1.1.0/Toprak-Setup-1.1.0.exe",
+    "sha256": "7da908b79fe258ffe4a58f1d19aa5e0318b68d467d7b50f0efa05147429d404c",
+    "sizeBytes": 56254773
   },
   "notes": [
-    "İlk açılış karşılama yazısı ve her yeni sürüm için bir kez gösterilen güncelleme notları.",
-    "Ezber için başlangıç ve bitiş âyeti seçerek aralık dinleme ve tekrar.",
-    "Gerçek insan kayıtları, okuyucu adları ve kişisel çevrimdışı ses kütüphanesi.",
-    "Genişletilmiş kaynaklı hadis, tefsir ve Erenler okumaları.",
-    "Yedekten dönen konumun korunması ve çevrimdışı kayıtların daha sıkı doğrulanması.",
-    "Hakkında, gizlilik, telif ve kaynak açıklamaları.",
-    "Adres girmeden tek düğmeyle yeni sürümü denetleme, doğrulayarak indirme ve kurma.",
-    "Arka plan hizmeti durduğunda simge alanında uyarı ve yeniden başlatma seçeneği."
+    "Yeni turkuaz simge, düzenli menüler ve açık, yeşil, turkuaz görünüm seçenekleri.",
+    "Kur’an’ın tamamında çevrimdışı Arapça ve meal araması, birden fazla âyet ayracı.",
+    "Namaz eğitiminden önce gerekli insan seslerinin hazır olma durumu.",
+    "Başlıklı ve aranabilir notlar, âyete bağlı notlar ve ayrı okuma oturumları.",
+    "Takvim ve imsakiyede düzeltilmiş renk karşıtlığı ve okunaklı yazdırma görünümü.",
+    "Tek düğmeyle seçili okuyucunun bütün sûrelerini ve uygun insan kayıtlarını hazırlayan, duraklatılabilen kalıcı indirme sırası.",
+    "Parola ile korunabilen tam yedek, tarihli yerel kopyalar ve geri yüklemeden önce içerik inceleme.",
+    "Güncelleme sonucunu izleme, doğrulanmış kurulumla onarım ve eski kurucu dosyalarını temizleme.",
+    "İmzalı güncelleme bildirisi ve kişisel içerik taşımayan yerel ezan geçmişi / tanılama indirme.",
+    "Âyetlere bağlı yerel tefsir açıklamaları, Erenler’de bölüm bölüm kısa okuma rehberleri, cemaat ve sehiv dersleri."
   ],
   "distribution": "full",
   "publicDistribution": true,
   "published": true,
-  "codeSigned": false
+  "codeSigned": false,
+  "signature": {
+    "algorithm": "RSA-PSS-SHA256",
+    "keyId": "vaktin-nuru-2026",
+    "value": "L5rj8r4/NOkznebjfXaSrh14YbDLYcJphqEqe89o2A7H/rKRyMXrgDnqprGL55BYnOxPz8tUZLTvrfd0/p5mEBFWwFz/2r+Sl8ZGQIftLBCjuySvIoytJHgzVtc1oUKXyyU97DjrOLLlPvCWequ2PIrmWCpeBklQPJsV8vbS9mfbZFaXO5pAXIQPut59HtZpnr7UKR1g2ZhmhdvEmXoSJqi41kZLE9agpbWFd2DiAkAk6eUKTngXYTNy/ztSwE0Rf8PucVUOjSTXqGNoGyo4gdLmVzehQbmkwl4Rz8Kv5w1J2LeMESNR3JCESOJkFeAZLRj9J7DIq1j1n520nj5kbpwtGEwWIx/3vuekObZ3ttZ91lDWeuzjuH5AUX3wtYMiiALSfTQcBz+rc6ZB5Uxjibo5XuFK7W3g8gz4NbeWBiRQThfwqaktfdFxh3ftEcfUik/UJ4ESmDjoBe/mseTFPHLRRKdKIpDHP0NKyAAMtMeTwNYP/wYXuzxM93HBN+lu"
+  }
 }
