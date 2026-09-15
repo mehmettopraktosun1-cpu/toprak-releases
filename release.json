@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "appId": "toprak-desktop",
+  "version": "0.6.0",
+  "publishedAt": "2026-09-15T12:26:47.310Z",
+  "installer": {
+    "fileName": "Toprak-Update-0.6.0.exe",
+    "url": "https://github.com/mehmettopraktosun1-cpu/toprak-releases/releases/download/v0.6.0/Toprak-Update-0.6.0.exe",
+    "sha256": "a7c0060236343d887b23c91ef9c7061c8fbb2e46eca98f4956f53540612c499e",
+    "sizeBytes": 38158911
+  },
+  "notes": [
+    "Dört mezhebe göre 44 namaz seçimi; iki, üç ve dört rekât eğitimleri.",
+    "İndirilen sesler, ezan ayarları ve kişisel kayıtlarla tam yedekleme ve geri alma.",
+    "Çevrimdışı durum ekranı, genel yazı boyutu ve Erenler içinde İbn Arabî.",
+    "Genişletilmiş kaynaklı kütüphane ve 2026–2035 dinî gün takvimi.",
+    "Kod güncellemesi, tam Toprak 0.6.0 ve üzeri kurulum gerektirir; temel sesleri ve Kur’an dosyalarını korur."
+  ],
+  "published": true,
+  "codeSigned": false,
+  "minimumVersion": "0.6.0",
+  "distribution": "update"
+}
