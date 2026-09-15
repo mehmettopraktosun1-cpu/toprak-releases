@@ -1,23 +1,26 @@
 {
   "schemaVersion": 1,
   "appId": "toprak-desktop",
-  "version": "0.6.0",
-  "publishedAt": "2026-09-15T12:26:47.310Z",
+  "version": "1.0.0",
+  "publishedAt": "2026-09-15T13:42:09.038Z",
   "installer": {
-    "fileName": "Toprak-Update-0.6.0.exe",
-    "url": "https://github.com/mehmettopraktosun1-cpu/toprak-releases/releases/download/v0.6.0/Toprak-Update-0.6.0.exe",
-    "sha256": "a7c0060236343d887b23c91ef9c7061c8fbb2e46eca98f4956f53540612c499e",
-    "sizeBytes": 38158911
+    "fileName": "Toprak-Setup-1.0.0.exe",
+    "url": "https://github.com/mehmettopraktosun1-cpu/toprak-releases/releases/download/v1.0.0/Toprak-Setup-1.0.0.exe",
+    "sha256": "43cf42ea6217f3e5cb6c860299986c6c7dc87833c3d40ab4096b1329dacc0faa",
+    "sizeBytes": 55764573
   },
   "notes": [
-    "Dört mezhebe göre 44 namaz seçimi; iki, üç ve dört rekât eğitimleri.",
-    "İndirilen sesler, ezan ayarları ve kişisel kayıtlarla tam yedekleme ve geri alma.",
-    "Çevrimdışı durum ekranı, genel yazı boyutu ve Erenler içinde İbn Arabî.",
-    "Genişletilmiş kaynaklı kütüphane ve 2026–2035 dinî gün takvimi.",
-    "Kod güncellemesi, tam Toprak 0.6.0 ve üzeri kurulum gerektirir; temel sesleri ve Kur’an dosyalarını korur."
+    "İlk açılış karşılama yazısı ve her yeni sürüm için bir kez gösterilen güncelleme notları.",
+    "Ezber için başlangıç ve bitiş âyeti seçerek aralık dinleme ve tekrar.",
+    "Gerçek insan kayıtları, okuyucu adları ve kişisel çevrimdışı ses kütüphanesi.",
+    "Genişletilmiş kaynaklı hadis, tefsir ve Erenler okumaları.",
+    "Yedekten dönen konumun korunması ve çevrimdışı kayıtların daha sıkı doğrulanması.",
+    "Hakkında, gizlilik, telif ve kaynak açıklamaları.",
+    "Adres girmeden tek düğmeyle yeni sürümü denetleme, doğrulayarak indirme ve kurma.",
+    "Arka plan hizmeti durduğunda simge alanında uyarı ve yeniden başlatma seçeneği."
   ],
+  "distribution": "full",
+  "publicDistribution": true,
   "published": true,
-  "codeSigned": false,
-  "minimumVersion": "0.6.0",
-  "distribution": "update"
+  "codeSigned": false
 }
